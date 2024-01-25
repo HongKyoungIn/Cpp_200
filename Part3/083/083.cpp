@@ -1,4 +1,4 @@
-﻿// 083. 
+﻿// 083. 1차원 배열 함수 인자 사용하기
 
 #include "pch.h"
 #include <iostream>
