@@ -1,4 +1,4 @@
-﻿// 104. 
+﻿// 104. 클래스 정의하기(class)
 
 #include "pch.h"
 #include <string>
