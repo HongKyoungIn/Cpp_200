@@ -1,4 +1,4 @@
-﻿// 086. 배열 일부 변경하기(fill)
+﻿// 086. 배열 일부 변경하기(fill);
 
 #include "pch.h"
 #include <iostream>
