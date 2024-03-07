@@ -1,4 +1,4 @@
-﻿// 084. 2차원 배열 사용하기
+﻿// 084. 2차원 배열 사용하기;
 
 #include "pch.h"
 #include <iostream>
