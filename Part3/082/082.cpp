@@ -1,4 +1,4 @@
-﻿// 082. 1차원 배열 사용하기
+﻿// 082. 1차원 배열 사용하기;
 
 #include "pch.h"
 #include <iostream>
