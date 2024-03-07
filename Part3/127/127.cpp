@@ -10,8 +10,13 @@ using namespace std;
 template <class T>
 class TemplateData {
 public:
-	void Add(T arg) { data_.push_back(arg); }
-	int Size() { data_.size(); }
+	void Add(T arg) { 
+		data_.push_back(arg); 
+	}
+
+	int Size() { 
+		data_.size(); 
+	}
 	void Print() {
 		for(int i = 0, size = data_.size(); i < size; i++)
 			cout << "data_ : " << data_.at(i) << endl;
