@@ -1,4 +1,4 @@
-﻿// 088. 구조체 사용하기(struct)
+﻿// 088. 구조체 사용하기(struct);
 
 #include "pch.h"
 #include <iostream>
