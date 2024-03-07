@@ -1,4 +1,4 @@
-﻿// 123. type_tratis 사용하기 ① (정수, enum, signed)
+﻿// 123. type_traits 사용하기 ① (정수, enum, signed)
 
 #include "pch.h"
 #include <iostream>
