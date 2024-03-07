@@ -1,4 +1,4 @@
-﻿// 096.텍스트를 파일에 쓰기(ofstream)
+﻿// 096.텍스트를 파일에 쓰기(ofstream);
 
 #include "pch.h"
 #include <iostream>
