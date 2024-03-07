@@ -1,4 +1,4 @@
-﻿// 079. enum 이해하기
+﻿// 079. enum 이해하기;
 
 #include "pch.h"
 #include <iostream>
