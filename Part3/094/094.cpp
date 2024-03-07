@@ -1,4 +1,4 @@
-// 094. 파일을 한 줄씩 읽기(ifstream, getline)
+// 094. 파일을 한 줄씩 읽기(ifstream, getline);
 
 #include "pch.h"
 #include <iostream>
