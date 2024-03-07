@@ -1,4 +1,4 @@
-﻿// 080. enum class 이해하기
+﻿// 080. enum class 이해하기;
 
 #include "pch.h"
 #include <iostream>
