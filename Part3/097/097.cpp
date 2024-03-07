@@ -1,4 +1,4 @@
-﻿// 097. 프로그램 실행 폴더 알아내기(current_path)
+﻿// 097. 프로그램 실행 폴더 알아내기(current_path);
 
 #include "pch.h"
 #include <iostream>
