@@ -1,4 +1,4 @@
-﻿// 
+﻿// 093. 파일을 한 글자씩 읽기(ifstream, get)
 
 #include "pch.h"
 #include <iostream>
