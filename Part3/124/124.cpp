@@ -1,4 +1,4 @@
-﻿// 124. type_tratis 사용하기 ② (empty, array, same)
+﻿// 124. type_traits 사용하기 ② (empty, array, same)
 
 #include "pch.h"
 #include <iostream>
