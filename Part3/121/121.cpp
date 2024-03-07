@@ -22,6 +22,9 @@ public:
 int main() {
 	Derived child;
 	child.Display();
+	
+	Base base;
+	base.Display();
 
 	return 0;
 }
