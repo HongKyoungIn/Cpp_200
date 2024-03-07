@@ -1,4 +1,4 @@
-﻿// 095. 파일의 내용을 모두 읽기(stringstream)
+﻿// 095. 파일의 내용을 모두 읽기(stringstream);
 
 #include "pch.h"
 #include <iostream>
