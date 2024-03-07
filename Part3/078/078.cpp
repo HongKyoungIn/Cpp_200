@@ -1,4 +1,4 @@
-﻿// 078. const 포인터 이해하기
+﻿// 078. const 포인터 이해하기;
 
 #include "pch.h"
 #include <iostream>
