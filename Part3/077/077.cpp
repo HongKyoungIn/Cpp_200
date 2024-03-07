@@ -1,4 +1,4 @@
-﻿// 077. const 변수 이해하기
+﻿// 077. const 변수 이해하기;
 
 #include "pch.h"
 #include <iostream>
