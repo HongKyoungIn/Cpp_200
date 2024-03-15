@@ -1,4 +1,4 @@
-﻿// 002. 콘솔창에 출력하기(cout, cin, endl)
+﻿// 002. 콘솔창에 출력하기(cout, cin, endl)!
 
 #include "pch.h"
 #include <iostream>
