@@ -1,4 +1,4 @@
-﻿// 046. 몫과 나머지 구하기(%)
+﻿// 046. 몫과 나머지 구하기(%)!
 
 #include "pch.h"
 #include <iostream>
