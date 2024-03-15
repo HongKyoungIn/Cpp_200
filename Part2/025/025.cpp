@@ -1,4 +1,4 @@
-﻿// 025. 논리 연산자 이해하기(and(&&), or(||), not(!))
+﻿// 025. 논리 연산자 이해하기(and(&&), or(||), not(!))!
 
 #include "pch.h"
 #include <iostream>
