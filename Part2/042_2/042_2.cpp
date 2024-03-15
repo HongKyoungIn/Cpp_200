@@ -1,4 +1,5 @@
-﻿#include "pch.h"
+﻿// 042. 반복문을 이용하여 피라미드 출력하기(방법2)
+#include "pch.h"
 #include <iostream>
 
 using namespace std;
