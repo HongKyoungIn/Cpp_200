@@ -1,4 +1,4 @@
-﻿// 048. 소수점 분리하기(modf)
+﻿// 048. 소수점 분리하기(modf)!
 
 #include "pch.h"
 #include <iostream>
