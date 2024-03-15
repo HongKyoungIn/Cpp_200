@@ -1,4 +1,4 @@
-﻿// 073. 전역 변수 이해하기(extern)
+﻿// 073. 전역 변수 이해하기(extern)!
 
 #include "pch.h"
 #include <iostream>
