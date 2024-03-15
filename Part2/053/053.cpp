@@ -1,4 +1,4 @@
-﻿// 053. 문자열 비교하기(string.compare)
+﻿// 053. 문자열 비교하기(string.compare)!
 
 #include "pch.h"
 #include <iostream>
