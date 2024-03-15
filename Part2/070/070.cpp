@@ -1,4 +1,4 @@
-﻿// 070. 포인터 변수 사용하기
+﻿// 070. 포인터 변수 사용하기!
 
 #include "pch.h"
 #include <iostream>
