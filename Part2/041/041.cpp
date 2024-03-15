@@ -1,4 +1,4 @@
-﻿// 041. 피보나치 수열 만들기
+﻿// 041. 피보나치 수열 만들기!
 
 #include "pch.h"
 #include <iostream>
