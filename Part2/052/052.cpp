@@ -1,4 +1,4 @@
-﻿// 052. 지나간 시간 알아내기(time)
+﻿// 052. 지나간 시간 알아내기(time)!
 
 #include "pch.h"
 #include <iostream>
