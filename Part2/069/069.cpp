@@ -1,4 +1,4 @@
-﻿// 069. 포인터 이해하기(*)
+﻿// 069. 포인터 이해하기(*)!
 
 #include "pch.h"
 #include <iostream>
