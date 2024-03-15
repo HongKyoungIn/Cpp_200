@@ -1,4 +1,4 @@
-﻿// 050. 무작위로 문자열과 배열 섞기(random_suffle)
+﻿// 050. 무작위로 문자열과 배열 섞기(random_suffle)!
 
 #include "pch.h"
 #include <iostream>
