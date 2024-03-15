@@ -1,4 +1,4 @@
-﻿// 010. 배열 배우기([크기])
+﻿// 010. 배열 배우기([크기])!
 
 #include "pch.h"
 #include <iostream>
