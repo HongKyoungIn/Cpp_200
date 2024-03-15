@@ -1,4 +1,5 @@
-﻿#include "pch.h"
+﻿// 041. 피보나치 수열 만들기(방법2)
+#include "pch.h"
 #include <iostream>
 
 void printFibonacci(int n) {
