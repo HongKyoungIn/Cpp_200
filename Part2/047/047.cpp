@@ -1,4 +1,4 @@
-﻿// 047. 제곱근 구하기(sqrt)
+﻿// 047. 제곱근 구하기(sqrt)!
 
 #include "pch.h"
 #include <iostream>
