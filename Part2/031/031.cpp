@@ -1,4 +1,4 @@
-﻿// 031. 자료형의 크기 이해하기(sizeof)
+﻿// 031. 자료형의 크기 이해하기(sizeof)!
 
 #include "pch.h"
 #include <iostream>
