@@ -1,4 +1,4 @@
-﻿// 
+﻿// 040. 반복문을 이용하여 구구단(15단) 출력하기(방법2)
 
 #include "pch.h"
 #include <iostream>
