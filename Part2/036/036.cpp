@@ -1,4 +1,4 @@
-﻿// 036. 순환문으로 홀수, 짝수 찾기(for)
+﻿// 036. 순환문으로 홀수, 짝수 찾기(for)!
 
 #include "pch.h"
 #include <iostream>
