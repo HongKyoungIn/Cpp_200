@@ -1,4 +1,4 @@
-﻿// 071. 포인터 배열 사용하기
+﻿// 071. 포인터 배열 사용하기!
 
 #include "pch.h"
 #include <iostream>
