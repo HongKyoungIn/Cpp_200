@@ -1,4 +1,4 @@
-﻿// 049. 난수 생성하기(srand, rand)
+﻿// 049. 난수 생성하기(srand, rand)!
 
 #include "pch.h"
 #include <iostream>
