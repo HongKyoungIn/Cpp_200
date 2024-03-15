@@ -1,4 +1,4 @@
-﻿// 020. 논리형 변수 이해하기(bool)
+﻿// 020. 논리형 변수 이해하기(bool)!
 
 #include "pch.h"
 #include <iostream>
