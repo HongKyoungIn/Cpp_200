@@ -1,4 +1,4 @@
-﻿// 043. 실수 소수점 버리기 올리기(floor, ceil)
+﻿// 043. 실수 소수점 버리기 올리기(floor, ceil)!
 
 #include "pch.h"
 #include <iostream>
